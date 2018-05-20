@@ -1,0 +1,49 @@
+.main-title-con{
+    text-align: center;
+}
+
+#root{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.myroot{
+    display: flex;
+}
+
+.menu{
+    width: 20%;
+    padding-top: 20px;
+}
+
+.form-group{
+    padding: 0 15px;
+}
+
+.main-title{
+    padding: 35px 0 35px 0;
+    color: white;
+    margin-bottom: 0;
+}
+
+.main-title-con{
+    /* background-color: green; */
+    background: url('../img/34966.jpg')
+}
+
+
+a:hover{
+    text-decoration: none;
+    color:white;
+}
+
+a {
+    color: white;
+}
+
+.menu{
+    background: url('../img/backgorund.jpg');
+}
+
+/* .logo{
+    width: 100px;
+} */

@@ -1,0 +1,12 @@
+.gamelist-con{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+    width: 80%;
+    padding-right: 50px;
+    background: url('../img/galaxy.png');
+    padding-top: 20px;
+}
+
+
+

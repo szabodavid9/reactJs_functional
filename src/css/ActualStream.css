@@ -1,0 +1,17 @@
+.actual-stream-con{
+    display: flex;
+}
+
+.stream-frame{
+    padding-right: 50px;
+}
+
+.actual-stream-con{
+    position: relative;
+    width: 80%;
+}
+
+.chat{
+    position: absolute;
+    right: 0;
+}

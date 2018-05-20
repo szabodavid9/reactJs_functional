@@ -1,0 +1,22 @@
+.streamlist-con{
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 50px;
+    width: 80%;
+}
+
+.stream-con{
+    padding-right: 20px;
+}
+
+.stream-list--parent{
+    width: 80%;
+}
+
+.actual-stream-con, .streamlist-con{
+    background: url('../img/galaxy.png');
+}
+
+.actual-stream-con{
+    padding-bottom: 200px;
+}
