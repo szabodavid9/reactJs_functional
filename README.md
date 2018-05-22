@@ -1,9 +1,21 @@
-# reactJs_functional
+# Example project for functional programming in JS
 
-This project was created with demonstration purpose.
+## Contains:
 
-You can run this project with the following script:
-  
-  -npm start 
-  
-The development server is running on localhost:3000
+- List operations
+- Function calls
+- Curry and function
+- Tail call optimization
+- Lambda function
+
+## Install dependencies: 
+
+`npm install`  
+
+## Start development server:
+
+``npm start`` 
+
+## Web browser
+
+``localhost:3000``
