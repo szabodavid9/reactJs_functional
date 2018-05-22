@@ -2,8 +2,14 @@
 
 This project was created with demonstration purpose.
 
-You can run this project with the following script:
+## Install dependencies: 
 
--npm start
+`npm install`  
 
-The development server is running on localhost:3000
+## Start development server:
+
+``npm start`` 
+
+## Web browser
+
+``localhost:3000``
